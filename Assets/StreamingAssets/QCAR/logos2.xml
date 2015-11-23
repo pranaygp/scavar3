@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Tanvas" size="2.500000 2.473373" />
+    <ImageTarget name="mlh" size="2.000000 1.973990" />
+    <ImageTarget name="mlh2" size="2.000000 0.847660" />
+    <ImageTarget name="pros" size="4.500000 1.293038" />
+  </Tracking>
+</QCARConfig>

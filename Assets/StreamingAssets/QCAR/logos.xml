@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="IBM" size="2.800000 2.377305" />
+    <ImageTarget name="post1" size="2.000000 1.988038" />
+    <ImageTarget name="Post2" size="2.000000 1.991331" />
+    <ImageTarget name="microsoft" size="3.000000 2.970831" />
+    <ImageTarget name="groupon-token" size="2.500000 1.677659" />
+  </Tracking>
+</QCARConfig>
