@@ -1,5 +1,7 @@
 # [scavar3](http://devpost.com/software/scavar-vuhod1)
 
+## [First Place Winner!](http://devpost.com/software/scavar-vuhod1)
+
 ##Inspiration
 
 We've had the idea to play a scavenger hunt using all of the cool technology available to us, but we wanted to put a cool twist on it. The multitude of logos at Hackthons and on CS Majors laptops served as a perfect, well-suited medium to play a round of awesome AR semi-virtual hunting!
